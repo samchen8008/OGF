@@ -15,15 +15,5 @@ Our mission at Open Generative Foundation is to educate people about the bluepri
 Thank you for your interest in Open Generative Foundation. If you would like to contribute or have any questions, please feel free to reach out to us.
 
 
- ------------------------    ------------------------    ------------------------
-|       App Framework     |  |      ML Frameworks     |  |       Model layer      |
-|   (Application Dev)     |  |   (PyTorch, TensorFlow,|  | (GPT-2, BERT, T5, etc.) |
-|       (OpenChatKit,Alpaca) |  |         etc.)          |  |                        |
- ------------------------    ------------------------    ------------------------
-                                           |                          |
-                                 ------------------------    ------------------------
-                                |      Tools layer       |  |      Dataset layer     |
-                                | (Utilities for working |  | (Pre-trained data for   |
-                                |    with LLMs and GPTs)  |  |    training models)     |
-                                |                        |  |                        |
-                                 ------------------------    ------------------------
+<img width="746" alt="image" src="https://user-images.githubusercontent.com/127657072/225791232-236a201f-739c-4078-ab4c-f56025ff7911.png">
+
